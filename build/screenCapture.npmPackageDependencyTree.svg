@@ -1,0 +1,39 @@
+<svg height="574" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="574" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ voxel-engine@0.20.2 </tspan>
+<tspan x="10" y="90">  ├── aabb-3d@0.0.0 </tspan>
+<tspan x="10" y="106">  ├── collide-3d-tilemap@0.0.1 </tspan>
+<tspan x="10" y="122">  ├── gl-matrix@2.0.0 </tspan>
+<tspan x="10" y="138">  ├── inherits@1.0.0 </tspan>
+<tspan x="10" y="154">  ├─┬ interact@0.0.2 </tspan>
+<tspan x="10" y="170">  │ ├─┬ drag-stream@0.0.2 </tspan>
+<tspan x="10" y="186">  │ │ ├─┬ domnode-dom@0.0.4 </tspan>
+<tspan x="10" y="202">  │ │ │ └─┬ domnode@0.0.3 </tspan>
+<tspan x="10" y="218">  │ │ │   └── mustache@0.4.0 </tspan>
+<tspan x="10" y="234">  │ │ └── through@1.1.2 </tspan>
+<tspan x="10" y="250">  │ ├── fullscreen@0.0.1 </tspan>
+<tspan x="10" y="266">  │ └── pointer-lock@0.0.3 </tspan>
+<tspan x="10" y="282">  ├─┬ kb-controls@0.0.2 </tspan>
+<tspan x="10" y="298">  │ ├── ever@0.0.3 </tspan>
+<tspan x="10" y="314">  │ └── vkey@1.0.1 </tspan>
+<tspan x="10" y="330">  ├── pin-it@0.0.1 </tspan>
+<tspan x="10" y="346">  ├── raf@0.0.1 </tspan>
+<tspan x="10" y="362">  ├── spatial-events@0.0.1 </tspan>
+<tspan x="10" y="378">  ├── spatial-trigger@0.0.0 </tspan>
+<tspan x="10" y="394">  ├── three@0.56.0 </tspan>
+<tspan x="10" y="410">  ├── tic@0.2.1 </tspan>
+<tspan x="10" y="426">  ├── voxel@0.3.1 </tspan>
+<tspan x="10" y="442">  ├── voxel-control@0.0.7 </tspan>
+<tspan x="10" y="458">  ├── voxel-mesh@0.2.1 </tspan>
+<tspan x="10" y="474">  ├── voxel-physical@0.0.10 </tspan>
+<tspan x="10" y="490">  ├── voxel-raycast@0.2.1 </tspan>
+<tspan x="10" y="506">  ├── voxel-region-change@0.1.0 </tspan>
+<tspan x="10" y="522">  ├─┬ voxel-texture@0.5.6 </tspan>
+<tspan x="10" y="538">  │ └── atlaspack@0.2.7 </tspan>
+<tspan x="10" y="554">  └── voxel-view@0.0.6</tspan>
+</text>
+</svg>
