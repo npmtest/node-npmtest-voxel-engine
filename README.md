@@ -102,7 +102,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "0.20.2"
+    "version": "0.20.2",
+    "bin": {}
 }
 ```
 
